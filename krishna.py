@@ -79,3 +79,6 @@ if __name__ == '__main__':
 
     instance_data = get_ec2_instances(region_name, access_key, secret_key)
     create_excel_file(instance_data)
+
+
+    #chinni automation file
